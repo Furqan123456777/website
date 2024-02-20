@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    float: right;
+    display: inline-block;
+    color: white;
+    background-color: blueviolet;
+
+    padding: 30px;
+}
+
+.demo {
+    margin-right: 
+    display: inline-block;
+    color: white;
+}
+
+.select {
+    border: none;
+
+}
+
+.nav {
+    position: sticky;
+    top: 0;
+    color: white;
+}
+
+.bgimage {
+    background-image: url("https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg");
+    height: 100dvh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    background-attachment: fixed;
+}
+.word{
+    margin-top: 370px;
+    color: rgb(255, 255, 255);
+}
+.we{
+    font-size: 75px;
+
+
+}
+.button{
+    border: 1px solid white;
+    width: 150px;
+    height: 50px;
+}
+.button:hover{
+    background-color: aquamarine;
+}
+.img2{
+    margin-top: 380px;
+    margin-left: 70px;
+    
+}
+.left{
+    width: 50%;
+    height: 550px;
+    display: inline-block;
+    float: left;
+}
+
+.right{
+    width: 50%;
+    height: 550px;
+    display: inline-block;
+    float: right;
+}
